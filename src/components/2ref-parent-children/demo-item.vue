@@ -9,8 +9,8 @@
 export default {
     data() {
         return {
-            header: "标题",
-            val: '输入框'
+            header: "标题header",
+            val: '输入框内容'
         }
     },
     methods: {
